@@ -1,5 +1,11 @@
-## Object-oriented Programming (Lab Work) Template Guides
-1. Silakan anda upload file java hasil praktikum anda menggunakan NetBeans atau IDE/text editor lainnya dengan mengupload button ADD FILE
-2. Upload juga screenshot hasil latihan dan tugas anda dalam format .JPG atau .JPEG atau .PNG
-3. Setiap file java anda diharuskan untuk memiliki identitas anda dengan menggunakan komentar dengan format berikut "Created by NIM_Nama Lengkap" pada bagian paling atas setiap code anda. contoh: // Created by 1203232_Randi Proska Sandra
-4. Silakan anda edit file README.md ini dengan identitas anda juga serta berikan penjelasan terkait source code yang anda upload. Catatan: Jangan ubah nama file README.md
+//Created by 21343031_Muhammad Reviza Dekry
+
+pada jobsheet 5 ini kita membuat source code tentang implementasi/pengaplikasian dari class Scanner, BuffreadReader, dan JOptionPane
+Pada pengaplikasian kelas Scanner, hal utama sekali adalah deklarasi atau meng-import nya dengan sintax --> import java.util.Scanner, diatas sintax nama class/file.
+deklarasi dalam class/file adalah dengan sintax --> Scanner in = new Scanner(System.in)
+Scanner in --> variabel yang bernama in bertipe scanner
+new Scanner(System.in) --> membuat sebuah objek bertipe Scanner
+Kelas Scanner mempunyai method yang berbeda untuk membaca tipe data yang berbeda yang diinputkan melalui keyboard, pada source yang kita buat yaitu:
+public String nextLine() : memindahkan pemindai ke baris berikutnya dan mengembalikan input yang dilewati.
+public int nextInt() : memindai data dengan tipe data Integer
+
